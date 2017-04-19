@@ -1,4 +1,4 @@
-[TOC]
+[toc]
 
 ## HBase 基础知识
 
