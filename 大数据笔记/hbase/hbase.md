@@ -1,4 +1,4 @@
-[toc]
+![image](/pic/nana.jpg)
 
 ## HBase 基础知识
 
